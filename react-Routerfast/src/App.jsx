@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <div>
-      <h1 className="bg-black text-white text-4xl">React Router</h1>
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
